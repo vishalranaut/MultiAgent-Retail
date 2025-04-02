@@ -68,13 +68,6 @@ This project is a multi-agent AI system designed to optimize inventory managemen
 - **Flask** (API for real-time interaction)
 - **Ollama LLM** (AI-powered insights)
 
-## Contributors
-- Your Name
-- Your Team
-
-## License
-This project is licensed under the MIT License.
-
 ---
 
 🚀 **Retail Inventory Optimization** ensures seamless inventory management, reducing costs and improving efficiency! Let us know if you have any questions or need enhancements!
